@@ -1,0 +1,32 @@
+{
+  "name": "react-native-solar-set-icons-setup",
+  "version": "1.0.0",
+  "description": "Solar Set Icons React Native",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fsGitX/react-native-solar-set-icons.git"
+  },
+  "keywords": [
+    "icons",
+    "svg",
+    "png",
+    "icons",
+    "react",
+    "react-native",
+    "react-native-icons",
+    "solar-set-icons"
+  ],
+  "author": "Future Solutions",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fsGitX/react-native-solar-set-icons/issues"
+  },
+  "homepage": "https://github.com/fsGitX/react-native-solar-set-icons#readme",
+  "dependencies": {
+    "react-native-svg": "*"
+  }
+}
