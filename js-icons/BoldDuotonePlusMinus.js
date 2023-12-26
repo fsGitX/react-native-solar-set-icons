@@ -1,7 +1,7 @@
 import * as React from "react"
 import Svg, { Path } from "react-native-svg";
     
-const BoldDuotonePlus,Minus = ({
+const BoldDuotonePlusMinus = ({
     size = 24,
     color = "#1f2937",
     stroke = 2,
@@ -12,4 +12,4 @@ const BoldDuotonePlus,Minus = ({
 	<Path d="M11.9999 21.9999C7.28584 21.9999 4.92882 21.9999 3.46436 20.5354L20.5354 3.46436C21.9999 4.92882 21.9999 7.28584 21.9999 11.9999C21.9999 16.7139 21.9999 19.071 20.5354 20.5354C19.071 21.9999 16.7139 21.9999 11.9999 21.9999ZM18 17.75C18.4142 17.75 18.75 17.4142 18.75 17C18.75 16.5858 18.4142 16.25 18 16.25H13C12.5858 16.25 12.25 16.5858 12.25 17C12.25 17.4142 12.5858 17.75 13 17.75H18Z" fill={color} fillRule="evenodd"/>
 </Svg>;
 
-export default BoldDuotonePlus,Minus;
+export default BoldDuotonePlusMinus;

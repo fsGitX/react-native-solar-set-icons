@@ -1,7 +1,7 @@
 import * as React from "react"
 import Svg, { Path } from "react-native-svg";
     
-const OutlineFileSmile_) = ({
+const OutlineFileSmile_ = ({
     size = 24,
     color = "#1f2937",
     stroke = 2,
@@ -13,4 +13,4 @@ const OutlineFileSmile_) = ({
 	<Path d="M8 14.5001C8 15.3285 7.55229 16.0001 7 16.0001C6.44772 16.0001 6 15.3285 6 14.5001C6 13.6716 6.44772 13.0001 7 13.0001C7.55229 13.0001 8 13.6716 8 14.5001Z" fill={color}/>
 </Svg>;
 
-export default OutlineFileSmile_);
+export default OutlineFileSmile_;

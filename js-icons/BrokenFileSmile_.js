@@ -1,7 +1,7 @@
 import * as React from "react"
 import Svg, { Path } from "react-native-svg";
     
-const BrokenFileSmile_) = ({
+const BrokenFileSmile_ = ({
     size = 24,
     color = "#1f2937",
     stroke = 2,
@@ -14,4 +14,4 @@ const BrokenFileSmile_) = ({
 	<ellipse cx="7" cy="14.5" fill={color} rx="1" ry="1.5"/>
 </Svg>;
 
-export default BrokenFileSmile_);
+export default BrokenFileSmile_;

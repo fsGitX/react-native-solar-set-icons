@@ -1,6 +1,6 @@
 {
-  "name": "react-native-solar-set-icons-setup",
-  "version": "1.0.0",
+  "name": "react-native-solar-set-icons",
+  "version": "1.0.1",
   "description": "Solar Set Icons React Native",
   "main": "index.js",
   "scripts": {
